@@ -1,0 +1,11 @@
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/customer/CustomerJDBCDataAccessServiceTest.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/customer/CustomerJPADataAccessServiceTest.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/AbstractTestcontainers.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/TestSecurityConfig.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/customer/CustomerServiceTest.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/TestcontainersTest.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/customer/CustomerRowMapperTest.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/TestConfig.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/customer/CustomerRepositoryTest.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/journey/CustomerIT.java
+/Users/swetha/full-stack-professional/backend/src/test/java/com/amigoscode/journey/AuthenticationIT.java
